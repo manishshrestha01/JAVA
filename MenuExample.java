@@ -9,7 +9,7 @@ public static void main(String[] args) {
     frame.setSize(400,300);
 
     JMenuBar menuBar = new JMenuBar();
-    JMenu fileMenu = 
+    JMenu fileMenu = hello
 }
     
 }
